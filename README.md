@@ -2,44 +2,13 @@
 
 ## Prerequisites
 
-Students should have experience in developing React components. We will not be covering the basics of JavaScript or React in the class.
-
-If you have zero or little experience with React, please watch the following video tonight...
-
 [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635)
 
 Also, read these blog posts...
 
 [React SitePoint](http://www.sitepoint.com/author/ericgreene/)
 
-## Instructor
-
-Eric Greene - [http://t4d.io](http://t4d.io) - [LinkedIn](https://www.linkedin.com/in/ericwgreene)
-
-## Schedule
-
-Class:
-
-- Tuesday - Thursday: 9:15am to 4:30pm (end at 4pm on Thursday)
-
-Breaks:
-
-- Morning: 10:35am to 10:45am
-- Lunch: Noon to 1pm
-- Afternoon #1: 2:05pm to 2:15pm
-- Afternoon #2: 3:20pm to 3:30pm
-
-After Class Questions until 5pm
-
-## Course Outline
-
-- Day 1 - GraphQL/Relay specific JavaScript Review, GraphQL, Fetch/Promises
-- Day 2 - GraphQL, Relay/GraphQL
-- Day 3 - Relay/React
-
-## Links
-
-### Instructor's Resources
+### Resources
 
 - [DevelopIntelligence](http://www.developintelligence.com/)
 - [Eric's Blog](http://t4d.io/)
