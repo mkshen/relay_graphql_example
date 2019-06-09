@@ -1,5 +1,6 @@
 # Welcome to React, GraphQL & Relay
 
+##
 ## Prerequisites
 
 [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635)
